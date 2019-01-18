@@ -1,0 +1,25 @@
+{
+  "name": "@sayhellogmbh/js-hashscroll",
+  "version": "1.0.1",
+  "description": "jQuery function to provide smooth scrolling to an element which matches a URL hash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayHelloGmbH/js-hashscroll.git"
+  },
+  "keywords": [
+    "anchor",
+    "scroll",
+    "smooth scroll",
+    "jquery"
+  ],
+  "author": "Say Hello GmbH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayHelloGmbH/js-hashscroll/issues"
+  },
+  "homepage": "https://github.com/SayHelloGmbH/js-hashscroll#readme"
+}
