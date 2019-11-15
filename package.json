@@ -1,6 +1,7 @@
 {
   "name": "@markhowellsmead/js-hashscroll",
-  "version": "2.0.0",
+  "version": "2.0.1",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "description": "jQuery function to provide smooth scrolling to an element which matches a URL hash.",
   "main": "index.js",
   "scripts": {
