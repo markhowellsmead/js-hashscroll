@@ -64,7 +64,7 @@ $(window).on('ct-hashscroll/scroll-start', function(event, anchorAnimateOffset, 
 
 ## Changelog
 
-### 2.0.0 2019-11-15
+### 2.0.1 2019-11-15
 
 * Initial @markhowellsmead version at Github.
 
